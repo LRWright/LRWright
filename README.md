@@ -1,8 +1,8 @@
 ### Hello my name is Le-Ann 👋
 
-* 🌱 I’m currently learning web development with Code Nation
+* Finished a 3 month coding bootcamp with Code Nation!
 
-* My goals are to learn HTML, CSS, Javascript and Git.
+* My goals are to become a front end web developer.
 
 
 ### Le-Ann's GitHub Statistics
